@@ -1,7 +1,7 @@
 ### It's Omar ❤️👋
 Software engineer
 
-Flutter Developer with 2+ years of Android Developement's experience ☺️ 
+Flutter Developer with 2+ years of Android Developement's experience 😇 
 
 ⚡ Responsible for building Real-World Mobile Applications 
 
@@ -9,7 +9,7 @@ Flutter Developer with 2+ years of Android Developement's experience ☺️
 
 ✨ Maintaining code quality 
 
-🧠 Understanding Framework architecture and what happening under the hood .😇
+🧠 Understanding Framework architecture and what happening under the hood .
 
 <!--
 **omarreess/omarreess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
