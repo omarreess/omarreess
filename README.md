@@ -1,5 +1,5 @@
-### It's Omar ❤️😇
-Software engineer
+### It's Omar ❤️😇 Software Engineer
+
 
 Flutter Developer with 2+ years of Android Developement's experience  
 
