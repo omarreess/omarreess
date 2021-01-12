@@ -3,7 +3,13 @@ Software engineer
 
 Flutter Developer with 2+ years of Android Developement's experience ☺️ 
 
-⚡ Responsible for building Real-World Mobile Applications , Implementing High-Quality UI designs , ✨ Maintaining code quality , Understanding the framework architecture and what happening under the hood .😇
+⚡ Responsible for building Real-World Mobile Applications 
+
+💻 Implementing High-Quality UI designs 
+
+✨ Maintaining code quality 
+
+🧠 Understanding Framework architecture and what happening under the hood .😇
 
 <!--
 **omarreess/omarreess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
