@@ -1,6 +1,7 @@
 ### It's Omar ❤️👋
+Software engineer
 
-Software engineer with 2+ years of Android Developement's experience .☺️ 
+Flutter Developer with 2+ years of Android Developement's experience ☺️ 
 
 ⚡ Responsible for building Real-World Mobile Applications , Implementing High-Quality UI designs , ✨ Maintaining code quality , Understanding the framework architecture and what happening under the hood .😇
 
