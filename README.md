@@ -1,4 +1,5 @@
-### It's Omar ❤️😇 Software Engineer
+<h1 align="center">It's Omar ❤️😇</h1>
+<h3 align="center"> Software Engineer</h3>
 
 
 Flutter Developer with 2+ years of Android Development's experience
