@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer</h3>
 
 
-Flutter Developer with 2+ years of Android Development's experience
+Mobile Application Developer with 2+ years of Flutter & Android Development's experience
 
 ⚡ Responsible for building Real-World Mobile Applications 
 
