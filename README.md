@@ -2,7 +2,10 @@
 <h3 align="center"> Machine Learning Engineer & Software Engineer</h3>
 
 
- 
+<h3 align="start">Kaggel : https://www.kaggle.com/omarreess </h3>
+<h3 align="start">Linkedin : https://www.linkedin.com/in/omarreess </h3>
+<h3 align="start">Mail : omarreess@gmail.com </h3>
+<h3 align="start">Phone : +201097081508 </h3>
 
 
 <!--
